@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene/MainMenuManager.unity
+    guid: e4c0ad2f1166e8f49a208c199bd4d352
+  - enabled: 1
+    path: Assets/Scenes/Scene/Turorial.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scene/Main.unity
+    guid: 58da183798d42094594f4bdf2d5f51cd
+  - enabled: 1
+    path: Assets/Scenes/Scene/Win.unity
+    guid: 87e9d178a964bbd4cb3efee195715af0
+  - enabled: 1
+    path: Assets/Scenes/Scene/Lose.unity
+    guid: 4d30ef24bb19ae943ac548130c47bd49
+  m_configObjects: {}
